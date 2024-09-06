@@ -1,0 +1,17 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore environment variables files
+.env
+
+# Ignore compiled files
+*.class
+*.o
+*.out
+
+# Ignore IDE configuration files (e.g., VS Code)
+.vscode/
+
